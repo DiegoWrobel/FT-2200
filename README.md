@@ -7,4 +7,4 @@ The radio uses 5V and the serial port is over 11V
 
 ![Alt text](/schematic/Esquema.PNG?raw=true "Connections")
 
-https://github.com/DiegoWrobel/FT-2200/blob/b5bc657b4dfe9e600a0e0019cc2bb750b5add84d/schematic/Esquema.PNG
+Pin 2 has 5V that is being used as pullup via 680 ohm resistor
